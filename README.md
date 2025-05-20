@@ -33,5 +33,5 @@ print(most_probable_path)
 * Speech recognition, natural language processing, and other probabilistic sequence modeling tasks.
 * Any domain where Hidden Markov Models are applied.
 
-License
+# License
 This project is licensed under the MIT License.
